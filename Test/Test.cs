@@ -2,6 +2,6 @@ namespace test
 {
     public string Test()
     {
-       return "success";
+       return "success test.";
     }
 }
